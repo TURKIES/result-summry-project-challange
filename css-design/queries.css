@@ -1,0 +1,22 @@
+/******************************/
+/*MEDIA-QUERIES*/
+/******************************/
+
+/* 664 / 16 = 41.5 */
+
+@media (max-width: 41.5em) {
+  .box {
+    display: block;
+  }
+  .first-container {
+    width: 34rem;
+    padding: 7.4rem 2.7rem;
+  }
+
+  .summary-heading {
+    font-size: 1.8rem;
+  }
+  .contanier {
+    padding: 1.2rem 3.6rem;
+  }
+}
